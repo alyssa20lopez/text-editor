@@ -18,8 +18,10 @@ This application is a text editor that runs in the browser. The app is a single-
 [Heroku Link](https://pwa-text-editor.herokuapp.com/)
 ## Usage
 To use this application, first clone the project and navigate to VS Code. The following packages were installed through the command-line:
-- npm i 
-- npm i idb (A small wrapper around the IndexedDB Api and features methods that are useful for storing and retrieving data, an dis used by companies such as, Google and Mozilla)
+- `npm i` 
+- `npm i idb` (A small wrapper around the IndexedDB Api and features methods that are useful for storing and retrieving data, an dis used by companies such as, Google and Mozilla)
+
+To start application, run `npm run start:dev`
 
 ## Visuals
 Here is a visual of the front-end of the webpage design!
