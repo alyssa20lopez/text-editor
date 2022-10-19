@@ -15,7 +15,7 @@ This application is a text editor that runs in the browser. The app is a single-
 
 ## Submission
 
-[Heroku Link](https://pwa-text-editor.herokuapp.com/)
+[Heroku Link](https://pwa-text-editor22.herokuapp.com/)
 ## Usage
 To use this application, first clone the project and navigate to VS Code. The following packages were installed through the command-line:
 - `npm i` 
